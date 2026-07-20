@@ -1,0 +1,10 @@
+id
+email
+password_hash
+first_name
+last_name
+role
+is_active
+is_verified
+created_at
+updated_at

@@ -10,12 +10,16 @@ class Settings(BaseSettings):
     app_debug: bool = True
     api_v1_prefix: str = "/api/v1"
     log_level: str = "INFO"
-
+    JWT_SECRET_KEY: str = "njnB87XtBZZWRDbLQcNYI0-vNAUkLOOjtikUnsUyhR-Kw6OYekMENjFzrwkuN329"
+    JWT_ALGORITHM: str = "HS256"
+    ACCESS_TOKEN_EXPIRE_MINUTES: int = 15
+    REFRESH_TOKEN_EXPIRE_DAYS: int = 30
+    
     mysql_host: str = "127.0.0.1"
     mysql_port: int = 3306
     mysql_database: str = "nutrisnap"
-    mysql_user: str = "root"
-    mysql_password: str = "change_me"
+    mysql_user: str = "nutrisnap"
+    mysql_password: str = "Trustn01!"
 
     database_echo: bool = False
     cors_origins_raw: str = Field(
