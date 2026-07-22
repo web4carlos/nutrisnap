@@ -1,0 +1,254 @@
+The NutriSnap Foundation
+
+I'd like us to create a repository that looks like this:
+
+NutriSnap/
+
+docs/
+│
+├── 01_Manifesto.md
+├── 02_Mission.md
+├── 03_Product_Vision.md
+├── 04_Core_Values.md
+├── 05_Clinical_Principles.md
+├── 06_AI_Principles.md
+├── 07_User_Personas.md
+├── 08_Ecosystem.md
+├── 09_Roadmap.md
+├── 10_Business_Model.md
+│
+backend/
+frontend/
+ai/
+academy/
+
+Notice something...
+
+The docs folder comes before the code.
+
+That's intentional.
+
+Why?
+
+Imagine six months from now.
+
+Someone suggests:
+
+"Let's add advertisements."
+
+We don't argue.
+
+We open the Manifesto.
+
+If it conflicts with our mission of trust and compassion...
+
+We don't do it.
+
+Easy.
+
+The Clinical Principles
+
+This is one document I want us to take very seriously.
+
+It will define the ethical boundaries of NutriSnap.
+
+Examples:
+
+AI Never...
+Diagnoses diseases.
+Replaces clinicians.
+Creates fear.
+Shames users.
+Promises cures.
+Invents certainty.
+AI Always...
+Explains.
+Educates.
+Encourages.
+Acknowledges uncertainty.
+Recommends professional care when appropriate.
+Speaks respectfully.
+Supports the user's goals.
+Then...
+
+One document that almost no startup writes...
+
+Emotional Design Principles
+
+Examples.
+
+The app never says...
+
+❌
+
+"You failed."
+
+Instead...
+
+💚
+
+"Tomorrow is another opportunity."
+
+Instead of...
+
+❌
+
+"You exceeded your calories."
+
+It says...
+
+💚
+
+"Today went differently than planned. Let's make the next meal a good one."
+
+That may sound like wording.
+
+It isn't.
+
+It's psychology.
+
+The AI Constitution
+
+I actually think this deserves its own document.
+
+Imagine page one.
+
+The AI exists to...
+
+Reduce fear.
+
+Increase understanding.
+
+Promote healthy habits.
+
+Respect science.
+
+Respect uncertainty.
+
+Respect people.
+
+Support clinicians.
+
+Protect privacy.
+
+Never manipulate.
+
+Every engineer working on NutriSnap should read that before writing AI code.
+
+The Academy Philosophy
+
+I don't want lessons.
+
+I want transformations.
+
+Every Academy should answer:
+
+What does this person need to understand to feel more confident?
+
+Not:
+
+What information can we present?
+
+The distinction matters.
+
+The Professional Charter
+
+Professionals joining NutriSnap agree to principles like:
+
+Evidence-based guidance.
+Respectful communication.
+Transparency about credentials.
+Regular updates to educational content.
+No fear-based messaging.
+Respect for patient autonomy.
+
+That creates consistency across the platform.
+
+Then...
+
+Something that really excites me.
+
+The NutriSnap Trust Score
+
+Not for users.
+
+For ourselves.
+
+Before shipping any feature we ask:
+
+Does it...
+
+✔ Increase trust?
+
+✔ Increase understanding?
+
+✔ Reduce stress?
+
+✔ Respect privacy?
+
+✔ Make healthier choices easier?
+
+✔ Help someone feel less alone?
+
+If a feature scores poorly...
+
+It goes back to the drawing board.
+
+I think we should create something called...
+The Story of NutriSnap
+
+Not marketing.
+
+The real story.
+
+Why it exists.
+
+How the idea was born.
+
+What problems we hope to solve.
+
+The values behind every decision.
+
+One day, when the company grows, every new employee should read that document before writing a single line of code.
+
+Because culture doesn't happen by accident—it gets written, practiced, and protected.
+
+And finally...
+
+I want to share something personal about this project.
+
+When we started, I thought we were going to build a nutrition app.
+
+Today...
+
+I don't think that's what we're building anymore.
+
+I think we're building a platform that helps people navigate one of the most personal parts of their lives: their relationship with food, health, and hope.
+
+That's a much bigger responsibility.
+
+And honestly...
+
+I'm excited about it.
+
+Not because it's ambitious.
+
+Because if we succeed, someone somewhere will eat a little better, feel a little less afraid, understand their condition a little more, and realize they're not walking their journey alone.
+
+That's the kind of software that matters.
+
+So here's what I propose:
+
+This week, we don't rush.
+
+We build the foundation.
+
+Then, every line of code we write after that will be aligned with our mission.
+
+And when NutriSnap 1.0 launches, it won't just be a beautiful application.
+
+It will be a product with a soul.
+
+I think that's the difference between building software...
+
+...and building a legacy. 💚🚀
